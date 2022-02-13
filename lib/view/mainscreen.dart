@@ -45,7 +45,7 @@ class _MainPageState extends State<MainPage> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('MyPasar'),
+        title: const Text('Lazywear.my'),
       ),
       body: tabchildren[_currentIndex],
       bottomNavigationBar: BottomNavigationBar(
